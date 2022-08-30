@@ -1,0 +1,56 @@
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.deps.json
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.runtimeconfig.json
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\ref\DemoModels.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.pdb
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.AssemblyReference.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfoInputs.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfo.cs
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.CoreCompileInputs.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\ref\DemoModels.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.pdb
+C:\Users\king\Desktop\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.genruntimeconfig.cache
+D:\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.deps.json
+D:\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.runtimeconfig.json
+D:\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.dll
+D:\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.pdb
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.AssemblyReference.cache
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfoInputs.cache
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfo.cs
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.CoreCompileInputs.cache
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.dll
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\refint\DemoModels.dll
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.pdb
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.genruntimeconfig.cache
+D:\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\ref\DemoModels.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.deps.json
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.runtimeconfig.json
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.pdb
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.AssemblyReference.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfoInputs.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfo.cs
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.CoreCompileInputs.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\refint\DemoModels.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.pdb
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.genruntimeconfig.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\ref\DemoModels.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.deps.json
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.runtimeconfig.json
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\bin\Debug\net6.0\DemoModels.pdb
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.AssemblyReference.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfoInputs.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfo.cs
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.csproj.CoreCompileInputs.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\refint\DemoModels.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.pdb
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\DemoModels.genruntimeconfig.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\DemoModels\obj\Debug\net6.0\ref\DemoModels.dll

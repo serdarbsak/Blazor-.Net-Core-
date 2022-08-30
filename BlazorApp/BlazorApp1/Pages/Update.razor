@@ -1,0 +1,93 @@
+﻿@page "/update"
+
+@using DemoModels.CustomModels;
+@using BlazorApp1.Services;
+@inject IEmpService empService;
+@inject IJSRuntime JSRuntime;
+
+<PageTitle>Index</PageTitle>
+
+
+<table class="table table-striped table-bordered bg-light">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Phone</th>
+            <th>Company</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var (index, emp) in empList.Select((emp, i) => (i + 1, emp)))
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td><input @bind="emp.Name"></input></td>
+                <td><input @bind="emp.Surname"></td>
+                <td><input @bind="emp.Phone"></td>
+                <td><input @bind="emp.Company"></td>
+                <td>
+                    <input type="button" class="btn btn-primary" value="Update" @onclick="(() => UpdateClick(emp))" />
+                </td>
+                <td>
+                    <input type="button" class="btn btn-primary" value="Delete" @onclick="(() => DeleteClick(emp.Id))" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>  
+
+@code {
+    private Employee employee = new Employee();
+    private List<Employee> empList = new List<Employee>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GetEmployees();
+    }
+
+    private async Task GetEmployees()
+    {
+        empList = await empService.GetEmployees();
+    }
+
+    public async void AddNewEmployee()
+    {
+        var response = await empService.AddNewEmployee(employee);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Added Successfully");
+            this.StateHasChanged();
+        }
+    }
+    public async void UpdateClick(Employee employee)
+    {
+        var response = await empService.UpdateEmployee(employee);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Updated Successfully");
+            this.StateHasChanged();
+        }
+    }
+    public async void DeleteClick(int employeeId)
+    {
+        var response = await empService.DeleteEmployee(employeeId);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Deleted Successfully");
+            this.StateHasChanged();
+        }
+    }
+
+    private async Task Alert(string Message)
+    {
+        await JSRuntime.InvokeAsync<object>("Alert", Message);
+    }
+
+}

@@ -1,0 +1,60 @@
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.dll
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.pdb
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\king\Desktop\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.dll
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.pdb
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.pdb
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\bin\Debug\net6.0\DemoModels.pdb
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\zb\Desktop\Demo28 (2)\Demo28 (2)\Demo28\Demo\BlazorApp1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll

@@ -1,0 +1,81 @@
+﻿@page "/search"
+
+@using DemoModels.CustomModels;
+@using BlazorApp1.Services;
+@inject IEmpService empService;
+@inject IJSRuntime JSRuntime;
+
+<PageTitle>Index</PageTitle>
+ 
+ 
+ 
+@if (empList == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <RadzenGrid AllowPaging="true" AllowFiltering="true" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive" PageSize="4" AllowSorting="true" Data="@empList" TItem="Employee" ColumnWidth="150px">
+        <Columns>
+            <RadzenGridColumn TItem="Employee" Property="Name" Title="Name"></RadzenGridColumn>
+            <RadzenGridColumn TItem="Employee" Property="Surname" Title="Surname"></RadzenGridColumn>
+            <RadzenGridColumn TItem="Employee" Property="Phone" Title="Phone"></RadzenGridColumn>
+            <RadzenGridColumn TItem="Employee" Property="Company" Title="Company"></RadzenGridColumn>
+
+        </Columns>
+    </RadzenGrid>
+}
+
+@code {
+    private Employee employee = new Employee();
+    private List<Employee> empList = new List<Employee>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GetEmployees();
+    }
+
+    private async Task GetEmployees()
+    {
+        empList = await empService.GetEmployees();
+    }
+
+    public async void AddNewEmployee()
+    {
+        var response = await empService.AddNewEmployee(employee);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Added Successfully");
+            this.StateHasChanged();
+        }
+    }
+
+    public async void UpdateClick(Employee employee)
+    {
+        var response = await empService.UpdateEmployee(employee);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Updated Successfully");
+            this.StateHasChanged();
+        }
+    }
+
+    public async void DeleteClick(int employeeId)
+    {
+        var response = await empService.DeleteEmployee(employeeId);
+        if (response != null)
+        {
+            await GetEmployees();
+            await Alert("Employee Deleted Successfully");
+            this.StateHasChanged();
+        }
+    }
+
+    private async Task Alert(string Message)
+    {
+        await JSRuntime.InvokeAsync<object>("Alert", Message);
+    }
+      
+}

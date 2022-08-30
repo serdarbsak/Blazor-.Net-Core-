@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d6690ca-8c58-45fa-aeb8-9850b8a0205b": {
+      "ProjectGuid": "5d6690ca-8c58-45fa-aeb8-9850b8a0205b",
+      "DisplayName": "BlazorApp1",
+      "ColorIndex": 0
+    },
+    "54d59be6-7242-4290-b92f-2f8b58d63c5a": {
+      "ProjectGuid": "54d59be6-7242-4290-b92f-2f8b58d63c5a",
+      "DisplayName": "DemoApi",
+      "ColorIndex": 1
+    },
+    "8f67632d-95eb-4e2e-be41-b374b4b9c163": {
+      "ProjectGuid": "8f67632d-95eb-4e2e-be41-b374b4b9c163",
+      "DisplayName": "DemoModels",
+      "ColorIndex": 2
+    },
+    "1472cbea-1723-487c-8521-33d8bda3df4d": {
+      "ProjectGuid": "1472cbea-1723-487c-8521-33d8bda3df4d",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
